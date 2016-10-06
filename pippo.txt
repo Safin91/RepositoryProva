@@ -1,0 +1,5 @@
+total 32
+drwxr-xr-x 1 Serafo 197609 0 ott  6 18:25 ./
+drwxr-xr-x 1 Serafo 197609 0 ott  6 18:19 ../
+drwxr-xr-x 1 Serafo 197609 0 ott  6 18:23 .git/
+-rw-r--r-- 1 Serafo 197609 0 ott  6 18:25 pippo.txt

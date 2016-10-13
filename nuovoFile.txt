@@ -1,0 +1,46 @@
+    1  git
+    2  cacca
+    3  GREP
+    4  piconv da
+    5  piconv patax.txt
+    6  ll
+    7  pwd
+    8  cd Desktop/
+    9  mkdir ProvaSIW
+   10  dir
+   11  ls
+   12  find | grep ProvaSIW/
+   13  jdap
+   14  cd ProvaSIW/
+   15  pwd
+   16  pwd
+   17  whonami
+   18  whoami
+   19  git interpret-trailers 
+   20  git init
+   21  ll
+   22  ll -a
+   23  touch.exe pippo.txt
+   24  ll
+   25  ll -a > pippo.txt 
+   26  nano pippo.txt 
+   27  pico pippo.txt
+   28  ll
+   29  ls
+   30  git add pippo.txt
+   31  git status 
+   32  history 
+   33  ll
+   34  hystory
+   35  history
+   36  git commit -m "sto inserendo il primo file"
+   37  git status
+   38  status
+   39  git status
+   40  git status
+   41  touch.exe nuovofile
+   42  ll
+   43  rm nuovofile 
+   44  ls
+   45  touch.exe nuovoFile.txt
+   46  history > nuovoFile.txt
